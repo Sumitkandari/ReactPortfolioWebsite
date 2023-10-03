@@ -1,0 +1,39 @@
+.p{
+    width: 30%;
+    
+    margin: 20px 10px;
+    
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+    border: 1px solid black;
+    height: 30%;
+}
+.p-browser{
+    height: 20px;
+    background-color:whitesmoke;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    z-index: 2;
+}
+.p-circle{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 3px;
+}
+.p-img{
+   
+    width: 100%;
+    object-fit: cover;
+   
+    
+}
+
+@media screen and (max-width:480px){
+    .p{
+        width: 40%;
+        height: 20vh;
+    }
+}
