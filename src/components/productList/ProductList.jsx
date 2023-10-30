@@ -26,11 +26,11 @@ const ProductList = () => {
           <h1 style={{position:"relative",zIndex:"3"}}>Education</h1>
           <div className="pl-education">
             <h2 className="pl-w-title">Bachelor of Technology</h2>
-            <p>Kendriya Vidyalaya No.1 HBK- Uttrakhand,India</p>
+            <p>Dehradun Institute of Technology University-Uttrakhand,India</p>
           </div>
           <div className="pl-education">
             <h2 className="pl-w-title">Senior Secondary Examination</h2>
-            <p>Dehradun Institute of Technology University-Uttrakhand,India</p>
+            <p>Kendriya Vidyalaya No.1 HBK- Uttrakhand,India</p>
           </div>
           <div className="pl-education">
             <h2 className="pl-w-title">Secondary Examination</h2>
