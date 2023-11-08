@@ -25,10 +25,10 @@ const About = () => {
       </div>
       <div className="a-right">
         <h1 className="a-title">About me</h1>
-        <p className="a-sub">
+        {/* <p className="a-sub">
           It is a long established fact that a reader will be distracted by the
           readable content.
-        </p>
+        </p> */}
         <p className="a-desc">
           As a passionate and dedicated fresher frontend developer, I am eager
           to contribute my skills and knowledge to create engaging and

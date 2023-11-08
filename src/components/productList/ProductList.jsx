@@ -58,7 +58,7 @@ const ProductList = () => {
             <h2>Intern</h2>
             <h3 className="pl-w-title">FoodVybe</h3>
             <p>
-              Collaborated with the product team to brainstorm and implement
+              - Collaborated with the product team to brainstorm and implement
               innovative use cases for geofencing.
             </p>
           </div>
@@ -68,21 +68,21 @@ const ProductList = () => {
           <div className="pl-projects">
             <h2 className="pl-w-title">Personal Portfolio</h2>
             <p>
-              Personal portfolio which features an adaptive design and
+              - Personal portfolio which features an adaptive design and
               highlights my professional abilities and skills
             </p>
           </div>
           <div className="pl-projects">
             <h2 className="pl-w-title">Notetaking Web Application</h2>
             <p>
-              Developed a comprehensive note-taking application to improve
+              - Developed a comprehensive note-taking application to improve
               personal productivity and organization.
             </p>
           </div>
           <div className="pl-projects">
             <h2 className="pl-w-title">News Application</h2>
             <p>
-              Developed a feature-rich news application to provide users with
+              - Developed a feature-rich news application to provide users with
               up-to-date news articles, personalized content recommendations,
               and an intuitive user experience
             </p>

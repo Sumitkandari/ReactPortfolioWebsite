@@ -54,7 +54,7 @@ const Contact = () => {
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
 
-              Durga Colony Phase 2 Gujronwali, Natthuawala Raipur, Uttarakhand, India
+              Dehradun, Uttarakhand, India
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Github} alt="" />

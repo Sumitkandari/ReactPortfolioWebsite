@@ -1,7 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../img/me3.png"
-
+import Me from "../../img/me3.png";
 
 const Intro = () => {
   return (
@@ -19,12 +18,13 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I design an develop websites of all sizes,
-            specializing in creating stylish, modern websites, web services.
+            I design an develop websites of all sizes, specializing in creating
+            stylish, modern websites, web services.
           </p>
-          <button className="i-btn">Download Resume</button>
+          <a href="https://drive.google.com/file/d/170tOyoLeTWXDTDbNOS6mCDxBapn6Z8in/view?usp=sharing">
+            <button className="i-btn">Download Resume</button>
+          </a>
         </div>
-        
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
