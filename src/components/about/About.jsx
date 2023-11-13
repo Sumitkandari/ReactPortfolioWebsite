@@ -1,7 +1,6 @@
 import React from "react";
 import "./about.css";
 
-
 const About = () => {
   function handlenav(e) {
     // console.log(tag)
@@ -32,7 +31,11 @@ const About = () => {
           ready to collaborate with a dynamic team to turn ideas into
           interactive, visually appealing websites.
         </p>
-      
+        <p className="a-shortdesc">
+          As a passionate and dedicated fresher frontend developer, I am eager
+          to contribute my skills and knowledge to create engaging and
+          user-friendly web experiences.
+        </p>
       </div>
     </div>
   );

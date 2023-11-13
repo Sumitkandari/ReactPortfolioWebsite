@@ -94,7 +94,7 @@
   background-color: purple;
   color: white;
 }
-@media screen and (max-width:480px){
+@media  (width<=500px){
   .i{
     flex-direction: column;
   }
@@ -107,5 +107,10 @@
   }
   .i-desc{
     display: none;
+  }
+  .i-btn{
+    width: max-content;
+    height: 35px;
+    padding: 10px;
   }
 }
