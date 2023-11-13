@@ -14,7 +14,6 @@ const About = () => {
   return (
     <div className="a">
       <div className="a-left">
-        <div className="a-cardbg"></div>
         <div className="a-card">
           {/* <img
             className="a-img"
@@ -25,10 +24,6 @@ const About = () => {
       </div>
       <div className="a-right">
         <h1 className="a-title">About me</h1>
-        {/* <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
-        </p> */}
         <p className="a-desc">
           As a passionate and dedicated fresher frontend developer, I am eager
           to contribute my skills and knowledge to create engaging and
@@ -37,43 +32,7 @@ const About = () => {
           ready to collaborate with a dynamic team to turn ideas into
           interactive, visually appealing websites.
         </p>
-        {/* <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
-          <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
-            <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
-            </p>
-          </div>
-        </div> */}
-        {/* <ul className="a-short-navbar">
-          <li className="a-shortnavelement education" onClick={(e)=>handlenav(e)}>Education</li>
-          <li className="a-shortnavelement workexp" onClick={(e)=>handlenav(e)}>Work Experience</li>
-          <li className="a-shortnavelement project" onClick={(e)=>handlenav(e)}>Projects</li>
-        </ul>
-        <div className="a-education">
-          <p>
-            Bachelor of Technology Dehradun Institute of Technology
-            University-Uttrakhand,India
-          </p>
-          <p>
-            Senior Secondary Examination Kendriya Vidyalaya No.1 HBK-
-            Uttrakhand,India
-          </p>
-          <p>
-            Secondary Examination Kendriya Vidyalaya No.1 HBK- Uttrakhand,India
-          </p>
-        </div>
-        <div className="a-workexp">
-          <p>Associate PWC(PricewaterhouseCoopers)</p>
-          <p>Intern FoodVybe</p>
-        </div>
-        <div className="a-projects">
-          <p>Personal Portfolio</p>
-          <p>Notetaking Web Application</p>
-          <p>News Application</p>
-        </div> */}
+      
       </div>
     </div>
   );

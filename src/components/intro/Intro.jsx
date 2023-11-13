@@ -21,7 +21,7 @@ const Intro = () => {
             I design an develop websites of all sizes, specializing in creating
             stylish, modern websites, web services.
           </p>
-          <a href="https://drive.google.com/file/d/170tOyoLeTWXDTDbNOS6mCDxBapn6Z8in/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/170tOyoLeTWXDTDbNOS6mCDxBapn6Z8in/view" target="_blank">
             <button className="i-btn">Download Resume</button>
           </a>
         </div>
